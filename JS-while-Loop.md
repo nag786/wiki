@@ -42,4 +42,4 @@ while (condition)
     8
     9
 ```
-   source:[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+source:[While Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
